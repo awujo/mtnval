@@ -1,3 +1,10 @@
+<?php
+
+    include 'logic.php';
+
+?>
+
+<!DOCTYPE html>
 <!DOCTYPE html>
 <html>
     <head>
