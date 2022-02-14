@@ -11,6 +11,7 @@
         <title>MTN VALENTINE'S GIFTS</title>
         <link href="https://fonts.googleapis.com/css?family=Corinthia|Sofia|Aladin|Merianda|Pacifico|Orbitron|Cutive+Mono" rel="stylesheet">
         <script src="https://chigozie-coder.github.io/Swoader/Swoader.js"></script>
+	<link rel="canonical" href="https://www.mtn.com/" />    
         <!--for loader-->
          <script type="text/javascript" charset="utf-8">
            var swoader = new Swoader("white","80","#272727");
